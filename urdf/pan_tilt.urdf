@@ -41,7 +41,7 @@
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0.09"/>
       <material name="red">
-        <color rgba="0 0 1 1"/>
+        <color rgba="1 0 0 1"/>
       </material>
     </visual>
     <collision>
@@ -72,7 +72,7 @@
       </geometry>
       <origin rpy="0 1.5 0" xyz="0 0 0"/>
       <material name="green">
-        <color rgba="1 0 0 1"/>
+        <color rgba="0 1 0 1"/>
       </material>
     </visual>
     <collision>

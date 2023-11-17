@@ -112,7 +112,7 @@
       <mass value="${base_mass}" />
       <origin xyz="0 0 0" />
       <!--The 3x3 rotational inertia matrix. -->
-        <cylinder_inertia  m="${base_mass}" r="${base_radius}" h="${base_height}" />
+      <xacro:cylinder_inertia  m="${base_mass}" r="${base_radius}" h="${base_height}" />
 
     </inertial>    
     <visual>
@@ -121,7 +121,6 @@
 
 
           <cylinder length="${base_height}" radius="${base_radius}" />
-
 
       </geometry>
       <material name="White" />
