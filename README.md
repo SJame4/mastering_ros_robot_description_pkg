@@ -28,3 +28,5 @@ Download this package in the _src_ folder of your ROS workspace
 - [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
 - [Amazon](https://www.amazon.com/Mastering-ROS-Robotics-Programming-Second/dp/1788478959)
 
+### 修改部分代码适配ROS noetic版本
+
